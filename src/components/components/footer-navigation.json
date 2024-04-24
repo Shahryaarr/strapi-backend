@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_footer_navigations",
+  "info": {
+    "displayName": "footerNavigation"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
